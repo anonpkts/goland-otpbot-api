@@ -1,4 +1,4 @@
-module github.com/anonpkts/golandbotapi
+module github.com/anonpkts/goland-otpbot-api
 
 go 1.17
 
