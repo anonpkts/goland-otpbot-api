@@ -15,10 +15,10 @@ import (
 //#Configuration
 
 var NGROK_URL string = "https://golandbotapi.herokuapp.com"
-var BOT_TOKEN string = ""
+var BOT_TOKEN string = "6453035576:AAGYUf2DUGwY8e1iEiphizTa1V5wUcAIKK8"
 var PLIVO_AUTH_ID string = ""
 var PLIVO_AUTH_TOKEN string = ""
-var OWNER_CHAT_ID int64 = 12345678
+var OWNER_CHAT_ID int64 = 6230323244
 
 type teleinfo struct {
 	UserID string
